@@ -1,1 +1,2 @@
 # Password-Generator
+In this JS Password Generator app,I  create a fully functional Password Generator JavaScript Project that helps in Generating Passwords. I cover everything we need to know, including generating random passwords, creating user-friendly interfaces, and implementing secure password logic. I create the structure of password generator app using html then style this using CSS and at last using JavaScript add the functionality to the Password Generator Project.
